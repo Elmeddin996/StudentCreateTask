@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\bin\Debug\net6.0\StudentCreateTask.exe
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\bin\Debug\net6.0\StudentCreateTask.deps.json
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\bin\Debug\net6.0\StudentCreateTask.runtimeconfig.json
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\bin\Debug\net6.0\StudentCreateTask.dll
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\bin\Debug\net6.0\StudentCreateTask.pdb
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\obj\Debug\net6.0\StudentCreateTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\obj\Debug\net6.0\StudentCreateTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\obj\Debug\net6.0\StudentCreateTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\obj\Debug\net6.0\StudentCreateTask.AssemblyInfo.cs
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\obj\Debug\net6.0\StudentCreateTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\obj\Debug\net6.0\StudentCreateTask.dll
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\obj\Debug\net6.0\refint\StudentCreateTask.dll
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\obj\Debug\net6.0\StudentCreateTask.pdb
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\obj\Debug\net6.0\StudentCreateTask.genruntimeconfig.cache
+C:\Users\User\source\repos\StudentCreateTask\StudentCreateTask\obj\Debug\net6.0\ref\StudentCreateTask.dll
